@@ -1,0 +1,10 @@
+{
+  "name": "BugCounterBackend",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "http": "*",
+    "socket.io": "*",
+    "jsonfile": "*"
+  }
+}

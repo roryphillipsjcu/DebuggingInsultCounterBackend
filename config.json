@@ -1,0 +1,6 @@
+{
+  "serverName": "Bug Counter",
+  "port": 4500,
+  "staticDirectory": "/public",
+  "dataDirectory": "/data"
+}
